@@ -1,4 +1,6 @@
-# Ex-6-Handwritten Digit Recognition using MLP
+## EX.NO.6
+## DATE: 25.11.2022
+# <p align="center">  Handwritten Digit Recognition using MLP</p>
 ## Aim:
        To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
