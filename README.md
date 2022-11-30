@@ -127,7 +127,8 @@ def test_prediction(index, W1, b1, W2, b2):
 
 ![i3](https://user-images.githubusercontent.com/75235704/204735379-a1375c48-2c60-4f7f-9605-bd4b7c02f0da.png)
 
-![i4](https://user-images.githubusercontent.com/75235704/204735508-4c80380a-5d98-456b-bae4-e43544d87be0.png)
+![16](https://user-images.githubusercontent.com/75235704/204737148-26225ba7-5406-41ea-a843-345333172c9b.png)
+
 
 ![i5](https://user-images.githubusercontent.com/75235704/204735673-75189ca0-4ff6-41bf-aece-039cf15f53a2.png)
 
