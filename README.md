@@ -121,5 +121,15 @@ def test_prediction(index, W1, b1, W2, b2):
 ## Output :
 ![i1](https://user-images.githubusercontent.com/75235704/204735057-1d9a0a43-406f-4f15-984e-690d6c256b35.png)
 
+![i2](https://user-images.githubusercontent.com/75235704/204735225-bbbb80da-7715-41ac-bd9f-397750b4ff5d.png)
+
+![i3](https://user-images.githubusercontent.com/75235704/204735379-a1375c48-2c60-4f7f-9605-bd4b7c02f0da.png)
+
+![i4](https://user-images.githubusercontent.com/75235704/204735508-4c80380a-5d98-456b-bae4-e43544d87be0.png)
+
+![i5](https://user-images.githubusercontent.com/75235704/204735673-75189ca0-4ff6-41bf-aece-039cf15f53a2.png)
+
 
 ## Result:
+Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
+
